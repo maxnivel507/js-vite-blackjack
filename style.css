@@ -1,0 +1,46 @@
+
+html, body{
+  margin: auto;
+  background-color: brown;
+  color: white;
+}
+
+.title1{
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 20px;
+  font-size: 25px;
+
+
+}
+.carta{
+  position: relative;
+  width: 150px;
+  left: 100px;
+  margin-left: -75px;
+
+
+}
+#computadora-cartas, #jugador-cartas{
+  text-align: center;
+  height: 240px;
+
+}
+#infoContainer {
+  text-align: center;
+  background-color: brown;
+  color: white;
+  padding: 20px;
+  font-size: 25px; /* Asegúrate de que el texto esté alineado a la izquierda en el contenedor */
+}
+
+#divBotones {
+  text-align: center;
+
+}
+.h1s {
+  text-align: center;
+
+}
+
